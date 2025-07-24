@@ -2,8 +2,10 @@
 
 A beautiful, modern and customizable alert library for iOS with Material Design inspiration.
 
-![Success Alert](screenshots/success.png)
-![Loading Alert](screenshots/loading.png)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/x2niosvn/X2NIOS-GoodAlert-Objective-C/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202025-07-25%20at%2006.38.53.png" width="300" />
+  <img src="https://raw.githubusercontent.com/x2niosvn/X2NIOS-GoodAlert-Objective-C/refs/heads/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202025-07-25%20at%2006.38.58.png" width="300" />
+</p>
 
 ## Features
 
